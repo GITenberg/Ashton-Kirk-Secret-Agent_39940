@@ -1,0 +1,39 @@
+_repo: Ashton-Kirk-Secret-Agent_39940
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boyer, Ralph L. (Ralph Ludwig)
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '34848'
+    url: http://www.gutenberg.org/2009/agents/34848
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McIntyre, John Thomas
+    alias: McIntyre, John T. (John Thomas)
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+description: Looking for classic detective fiction that harks back to the era of Sherlock
+  Holmes? Try Ashton Kirk, Secret Agent, the second in a series by author John T.
+  McIntyre. When a seemingly humdrum family man finds his life turned upside-down
+  by a series of increasingly improbable circumstances, he solicits the help of super-sleuth
+  Ashton Kirk.
+gutenberg_issued: '2012-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+title: Ashton-Kirk, Secret Agent
+url: http://www.gutenberg.org/ebooks/39940
